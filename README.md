@@ -9,6 +9,7 @@ Contact tracing has been proven an effective approach to control the virus sprea
 ### Results
 
 #### Dicentrality Comparision
+Lorenz Curve and Gini Coefficient: 
 BDCT:
 [new600diff_user_5_ban_reward_non_restricted_10000.pdf](https://github.com/Gyou/Blockchain-Contact-Tracing/files/10187646/new600diff_user_5_ban_reward_non_restricted_10000.pdf)
 DPoS:
